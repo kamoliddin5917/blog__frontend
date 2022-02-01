@@ -11,7 +11,7 @@ const Footer = () => {
           <li className="box__list">
             <a
               className="box__link"
-              href="https://www.facebook.com/"
+              href="https://www.facebook.com/kamoliddin_5917"
               target="_blank"
               rel="noreferrer"
             >
@@ -22,7 +22,7 @@ const Footer = () => {
           <li className="box__list">
             <a
               className="box__link"
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/kamoliddin_5917"
               target="_blank"
               rel="noreferrer"
             >
@@ -44,7 +44,7 @@ const Footer = () => {
           <li className="box__list">
             <a
               className="box__link"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/kamoliddin-jamoliddinov-855424229"
               target="_blank"
               rel="noreferrer"
             >
