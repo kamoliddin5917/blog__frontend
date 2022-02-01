@@ -1,0 +1,49 @@
+.title--acount {
+  text-align: center;
+  display: block;
+}
+.card_acount {
+  list-style: none;
+}
+.section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.section__left {
+  margin-right: 20px;
+}
+.input--file {
+  display: none;
+}
+.input--acount {
+  display: block;
+  border: none;
+  background: transparent;
+  color: #21243d;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 2px;
+}
+.input--acount-email {
+  font-weight: normal;
+  font-size: 16px;
+}
+.acount__image {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 4px;
+}
+.btn--acount {
+  cursor: pointer;
+  margin-top: 4px;
+}
+@media only screen and (max-width: 600px) {
+  .section {
+    flex-direction: column;
+  }
+  .section__left {
+    margin-bottom: 10px;
+  }
+}

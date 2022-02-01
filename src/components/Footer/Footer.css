@@ -1,0 +1,24 @@
+.footer {
+  padding: 30px 0;
+}
+.box {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box__link {
+  display: block;
+  text-decoration: none;
+  padding: 0px 17px;
+}
+.box__link:hover svg path {
+  transition: all 0.4s;
+  fill: gold;
+}
+.footer__text {
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  margin-top: 26px;
+}

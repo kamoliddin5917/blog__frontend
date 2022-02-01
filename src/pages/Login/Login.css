@@ -1,0 +1,17 @@
+.link_auth {
+  width: 100%;
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+}
+.link_auth span {
+  text-decoration: underline;
+  color: blue;
+  font-weight: normal;
+}
+@media only screen and (max-width: 600px) {
+  .link_auth {
+    text-align: center;
+  }
+}
