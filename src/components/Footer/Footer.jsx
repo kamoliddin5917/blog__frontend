@@ -11,7 +11,7 @@ const Footer = () => {
           <li className="box__list">
             <a
               className="box__link"
-              href="https://www.facebook.com/kamoliddin_5917"
+              href="https://www.facebook.com/kamoliddinjamoliddinov"
               target="_blank"
               rel="noreferrer"
             >
